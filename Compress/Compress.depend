@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1632659262 source:c:\users\user\onedrive\桌面\陳桀泓\coding\compress\compress.cpp
+	"Compress.hpp"
+
+1632658594 c:\users\user\onedrive\桌面\陳桀泓\coding\compress\compress.hpp
+	<iostream>
+	<map>
+	<string.h>
+
+1632660996 source:c:\users\user\onedrive\桌面\陳桀泓\coding\compress\main.cpp
+	<iostream>
+	<string.h>
+	"Compress.hpp"
+	"Decompress.hpp"
+
+1632661417 c:\users\user\onedrive\桌面\陳桀泓\coding\compress\decompress.hpp
+	<map>
+	<iostream>
+	<string.h>
+	<stack>
+
+1632661085 source:c:\users\user\onedrive\桌面\陳桀泓\coding\compress\decompress.cpp
+	"Decompress.hpp"
+
+1632663961 source:c:\users\user\onedrive\桌面\compress\compress.cpp
+	"Compress.hpp"
+
+1632658594 c:\users\user\onedrive\桌面\compress\compress.hpp
+	<iostream>
+	<map>
+	<string.h>
+
+1632663961 source:c:\users\user\onedrive\桌面\compress\main.cpp
+	<iostream>
+	<string.h>
+	"Compress.hpp"
+	"Decompress.hpp"
+
+1632661417 c:\users\user\onedrive\桌面\compress\decompress.hpp
+	<map>
+	<iostream>
+	<string.h>
+	<stack>
+
+1632664076 source:c:\users\user\onedrive\桌面\compress\decompress.cpp
+	"Decompress.hpp"
+
